@@ -1,6 +1,6 @@
 Simulation of 4-bar linkages in Python.
 
-`simulator_based.py` solves the system of equations symbolically
+`simulator_based.py` solves the system of equations symbolically.
 
 `newton-based.py` uses an implementation of Newton-Raphson method for multiple variables.
 
